@@ -34,6 +34,10 @@
     <string name="addon_name_whisper" translatable="false">Whisper</string>
     <string name="addon_name_mlkit" translatable="false">ML Kit</string>
     <string name="addon_name_mlkit_translate" translatable="false">ML Kit Translate</string>
+    <string name="addon_name_opusmt" translatable="false">OPUS-MT</string>
+    <string name="addon_name_opusmt_translate" translatable="false">OPUS-MT Translate</string>
+    <string name="addon_name_nllb" translatable="false">NLLB-200</string>
+    <string name="addon_name_nllb_translate" translatable="false">NLLB-200 Translate</string>
     <string name="addon_name_poi" translatable="false">POI</string>
 
     <string name="interface_prefs">Interface</string>
