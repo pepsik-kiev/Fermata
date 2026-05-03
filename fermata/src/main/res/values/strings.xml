@@ -86,6 +86,8 @@
     <string name="action_play_pause">Play/Pause</string>
     <string name="action_prev">Play previous</string>
     <string name="action_next">Play next</string>
+    <string name="action_prev_folder">Play previous folder</string>
+    <string name="action_next_folder">Play next folder</string>
     <string name="action_rw">Rewind</string>
     <string name="action_ff">Fast forward</string>
     <string name="action_vol_up">Volume up</string>
